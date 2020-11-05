@@ -1,4 +1,4 @@
-INSERT INTO articles (title,body,created)
+INSERT IN86 7TO articles (title,body,created)
     VALUES ('The title', 'This is the article body.', NOW());
 INSERT INTO articles (title,body,created)
     VALUES ('A title once again', 'And the article body follows.', NOW());
