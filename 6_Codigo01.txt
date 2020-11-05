@@ -5,7 +5,7 @@ INSERT INTO articles (title,body,created)
 INSERT INTO articles (title,body,created)
     VALUES ('Title strikes back', 'This is really exciting! Not.', NOW());
 
-
+u6r67rtyrtyr
 
 // src/Model/Table/ArticlesTable.php
 
